@@ -1,4 +1,4 @@
-<h1 align="center"> ╔═════ஓ๑♡๑ஓ═════╗ </h1>
+<h1 align="center"> ╔═══════ஓ๑♡๑ஓ═══════╗ </h1>
 <h3 align="center"> ⋆⋅☆ Hello! ☆⋅⋆ </h3>
   
   <h4 align="center"> Prounouns: She/Her </h4>
@@ -9,7 +9,7 @@
     <a href="https://github.com/search?q=user%3AMr-Coxall+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
 </h4>
       
-<h1 align="center"> ╚═════ஓ๑♡๑ஓ═════╝ </h1> 
+<h1 align="center"> ╚═══════ஓ๑♡๑ஓ═══════╝ </h1> 
              
 
 <!--
