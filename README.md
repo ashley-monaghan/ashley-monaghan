@@ -1,6 +1,6 @@
 <h1 align="center"> ╔═══════ஓ๑♡๑ஓ═══════╗ </h1>
-<h3 align="center"> ⋆⋅☆ Hello! ☆⋅⋆ </h3>
-<h4 align="center"> ⋆⋅ Welcome to my GitHub!⋅⋆ </h4>
+<h3 align="center"> ⋆⋅☆ Hello! ☆⋅⋆ 
+⋆⋅ Welcome to my GitHub!⋅⋆</h3>
   
   <h4 align="center"> Prounouns: She/Her </h4>
   <h4 align="center"> Programming Languages:
