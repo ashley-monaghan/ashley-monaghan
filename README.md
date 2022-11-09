@@ -1,8 +1,8 @@
 <h1 align="center"> ╔═══════ஓ๑♡๑ஓ═══════╗ </h1>
 <h3 align="center"> ⋆⋅☆ Hello! ☆⋅⋆ </h3>
 <h5 align="center"> ⋆⋅ Welcome to my GitHub!⋅⋆ </h5>
-  <br></br>
-  <h4 align="center"> Prounouns: She/Her </h4>
+<h10> ★・・・・・・★ </h10>
+<h4 align="center"> Prounouns: She/Her </h4>
   <h4 align="center"> Programming Languages:
     <a href="https://github.com/search?q=user%3AMr-Coxall+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3AMr-Coxall+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a> 
