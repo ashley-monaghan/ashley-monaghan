@@ -2,6 +2,7 @@
 <h3 align="center"> ⋆⋅☆ Hello! ☆⋅⋆ </h3>
 <h5 align="center"> ⋆⋅ Welcome to my GitHub!⋅⋆ </h5>
   
+  <br></br>
   <h4 align="center"> Prounouns: She/Her </h4>
   <h4 align="center"> Programming Languages:
     <a href="https://github.com/search?q=user%3AMr-Coxall+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
