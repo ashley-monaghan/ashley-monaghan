@@ -2,8 +2,8 @@
 <h2 align="center"> ⋆⋅☆ Hello! ☆⋅⋆ </h2>
   
   <h4 align="center"> Prounouns: She/Her </h4>
-  <h4 Programming Languages:
-      C++ C# CSS HTML JavaScript
+  <h4 align="center"> Programming Languages:
+      C++ C# CSS HTML JavaScript </h4>
       
 <h1 align="center"> ╚═══════ ≪ °❈° ≫ ═══════╝ </h1> 
              
