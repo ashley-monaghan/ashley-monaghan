@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello!!
+<h3> ╔══ ≪ °❈° ≫ ══╗ <h3>
+  
+  <h4> Prounouns: She/Her <h4>
+
+<h3> ╚══ ≪ °❈° ≫ ══╝ <h3>
+             
 
 <!--
 **ashley-monaghan/ashley-monaghan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
