@@ -1,10 +1,9 @@
-<h2 align="center"
-### Hello!!
-<h3> ╔═══════ ≪ °❈° ≫ ═══════╗ <h3>
+### <h2 align="center" Hello!! >
+<h3 align="center" ╔═══════ ≪ °❈° ≫ ═══════╗ >
   
-  <h4> Prounouns: She/Her <h4>
+  <h4 align="center" Prounouns: She/Her >
 
-<h3> ╚═══════ ≪ °❈° ≫ ═══════╝ <h3> >
+<h3 align="center" ╚═══════ ≪ °❈° ≫ ═══════╝ > 
              
 
 <!--
