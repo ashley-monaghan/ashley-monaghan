@@ -2,7 +2,7 @@
 <h3 align="center"> ⋆⋅☆ Hello! ☆⋅⋆ </h3>
 <h5 align="center"> ⋆⋅ Welcome to my GitHub!⋅⋆ </h5>
 
-<h10 align="center"> ★・・・・・・★ </h10>
+<h6 align="center"> ★・・・・・・★ </h6>
 
 <h4 align="center"> Prounouns: She/Her </h4>
   <h4 align="center"> Programming Languages:
